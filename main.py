@@ -5,8 +5,6 @@ from st_aggrid import AgGrid
 
 import plotly.express as px
 
-import matplotlib.pyplot as plt
-import seaborn as sns
 st.set_page_config(page_title="VR Reporting Tool", layout="wide")
 def main():
     st.title('VR Block Report Builder')

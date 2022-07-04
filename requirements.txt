@@ -1,4 +1,4 @@
-openpyxl
+XlsxWriter
 pandas
 datetime
 streamlit
